@@ -16,4 +16,12 @@ skills through intentional architecture and documented decision-making.
 - Network Segmentation: https://github.com/Bthrasher80/project-basilio-network-segmentation
 - Centralized Logging: https://github.com/Bthrasher80/project-basilio-centralized-logging
 
+## SOC Foundations
+
+This section documents SOC analyst workflows, access controls, and investigation practices developed as part of Project Basilio.
+
+Included artifacts:
+- Detection & Triage Workflow
+- Credential & Access Practices
+- Case Study #1 — Windows Authentication Events (Sprint 2)
 
