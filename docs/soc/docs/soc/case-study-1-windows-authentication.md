@@ -28,6 +28,18 @@ Event ID 4648 — Logon attempt using explicit credentials
 
 Event ID 4624 — Successful logon
 
+### Screenshots
+
+**Failed Authentication Event (Event ID 4625)**  
+![Event ID 4625 — Failed Logon](screenshots/case-study-1/event-4625-failed-logon.png)
+
+**Successful Authentication Event (Event ID 4624)**  
+![Event ID 4624 — Successful Logon](screenshots/case-study-1/event-4624-successful-logon.png)
+
+**Authentication Timeline Context (Event ID 4648)**  
+![Authentication Timeline](screenshots/case-study-1/auth-timeline-4625-4624.png)
+
+
 Key Evidence Attributes:
 
 Same endpoint (Dell Latitude 7480)
