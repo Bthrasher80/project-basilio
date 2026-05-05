@@ -8,6 +8,7 @@ skills through intentional architecture and documented decision-making.
 
 - [Hardware Justification & Design Decisions](docs/hardware/hardware-justification.md)
 - [SOC Detection & Triage Workflow](docs/soc/detection-workflow.md)
+- TOR Browser Threat Hunt: https://github.com/Bthrasher80/project-basilio-tor-threat-hunt
 
 
 ## Lab Artifacts
